@@ -1,3 +1,6 @@
+; An example with the input command where we work with a variable and output what the user wrote
+; License MIT
+
 [start
   [spot name [input "Enter your name: "]]
   [image "Hello, "] [image name] [image "!"] [nl]
