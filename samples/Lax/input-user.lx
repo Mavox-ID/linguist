@@ -1,0 +1,4 @@
+[start
+  [spot name [input "Enter your name: "]]
+  [image "Hello, "] [image name] [image "!"] [nl]
+]
